@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "footprintLidar",
+"features": [
+{ "type": "Feature", "properties": { "Name": "345307", "MinPS": 0.0, "MaxPS": 20.0, "LowPS": 2.0, "HighPS": 2.0, "Category": 1, "Tag": "Dataset", "GroupName": null, "ProductNam": null, "CenterX": 13346250.0, "CenterY": 308750.0, "ZOrder": 0, "TypeID": 1, "ItemTS": 43537.749159200001, "UriHash": "7D809D1A427BD8F658FB1C9390880627", "Shape_Leng": 10000.0, "Shape_Area": 6250000.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13345000.0, 307500.0 ], [ 13345000.0, 310000.0 ], [ 13347500.0, 310000.0 ], [ 13347500.0, 307500.0 ], [ 13345000.0, 307500.0 ] ] ] } },
+{ "type": "Feature", "properties": { "Name": "345310", "MinPS": 0.0, "MaxPS": 20.0, "LowPS": 2.0, "HighPS": 2.0, "Category": 1, "Tag": "Dataset", "GroupName": null, "ProductNam": null, "CenterX": 13346250.0, "CenterY": 311250.0, "ZOrder": 0, "TypeID": 1, "ItemTS": 43537.749159400002, "UriHash": "8149BA6941E9E99CCE2A527006CDC677", "Shape_Leng": 10000.0, "Shape_Area": 6250000.0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13345000.0, 310000.0 ], [ 13345000.0, 312500.0 ], [ 13347500.0, 312500.0 ], [ 13347500.0, 310000.0 ], [ 13345000.0, 310000.0 ] ] ] } }
+]
+}
